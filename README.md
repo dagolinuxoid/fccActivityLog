@@ -1,0 +1,2 @@
+# fccActivityLog
+freeCodeCamp progress log
