@@ -1,4 +1,4 @@
-###1-11-18
+###### 1-11-18
 reviewing some html tags
-###2-11-18
-reviewing some css
+###### 2-11-18
+reviewing some css ... and git apparently :)
