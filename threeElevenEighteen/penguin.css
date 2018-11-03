@@ -1,0 +1,160 @@
+:root {
+  --penguin-skin: black;
+  --penguin-belly: azure;
+  --penguin-beak: orange;
+}
+
+.penguin {
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 5%;
+  width: 300px;
+  height: 300px;
+  border: thin solid;
+}
+
+.penguin * {
+  position: absolute;
+}
+
+.penguin__top {
+  background-color: var(--penguin-skin);
+  top: 10%;
+  left: 25%;
+  width: 50%;
+  height: 45%;
+  border-radius: 70% 70% 60% 60%;
+}
+
+.penguin__bottom {
+  top: 40%;
+  left: 23.5%;
+  background: var(--penguin-skin);
+  width: 53%;
+  height: 45%;
+  border-radius: 70% 70% 100% 100%;
+}
+
+.hand {
+  background: var(--penguin-skin);
+  width: 30%;
+  height: 60%;
+  top: 0%;
+  z-index: -1;
+}
+
+.hand--right {
+  left: -5%;
+  border-radius: 30% 30% 120% 30%;
+  transform: rotate(45deg); 
+}
+
+.hand--left {
+  left: 75%;
+  border-radius: 30% 30% 30% 120%;
+  transform: rotate(-45deg);
+}
+
+.cheek {
+  top: 15%;
+  width: 60%;
+  height: 70%;
+  border-radius: 70% 70% 60% 60%;
+  background: var(--penguin-belly);
+}
+
+.cheek--right {
+  left: 35%;
+}
+
+.cheek--left {
+  left: 5%;
+}
+
+.belly {
+  top: 60%;
+  left: 2.5%;
+  background: var(--penguin-belly);
+  width: 95%;
+  height: 100%;
+  border-radius: 120% 120% 100% 100%; 
+}
+
+.foot {
+  top: 85%;
+  width: 15%;
+  height: 30%;
+  background: var(--penguin-beak);
+  border-radius: 50% 50% 50% 50%;
+  z-index: -2;
+}
+
+.foot--right {
+  left: 60%;
+  transform: rotate(-80deg);
+}
+
+.foot--left {
+  left: 25%;
+  transform: rotate(80deg);
+}
+
+.eye {
+  top: 45%;
+  background: #000;
+  width: 15%;
+  height: 17%;
+  border-radius: 50%;
+}
+
+.eye--right {
+  left: 60%;
+}
+
+.eye--left {
+  left: 25%;
+}
+
+.sparkle {
+  top: 25%;
+  left: 15%;
+  background: #fff;
+  width: 35%;
+  height: 35%;
+  border-radius: 50%;
+}
+
+.blush {
+  top: 65%;
+  background: pink;
+  width: 15%;
+  height: 10%;
+  border-radius: 50%;
+}
+
+.blush--right {
+  left: 15%;
+}
+
+.blush--left {
+  left: 65%;
+}
+
+.beak {
+  background: var(--penguin-beak);
+  border-radius: 50%;
+  height: 10%;
+}
+
+.beak--top {
+  top: 60%;
+  left: 40%;
+  width: 20%;
+}
+
+.beak--bottom {
+  top: 65%;
+  left: 42%;
+  width: 16%;
+}
