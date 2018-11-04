@@ -4,3 +4,5 @@ reviewing some html tags
 reviewing some css ... and git apparently :)
 ###### 3-11-18
 Refactored a cute penguin from FCC
+###### 4-11-18
+Applied visual design subsection
