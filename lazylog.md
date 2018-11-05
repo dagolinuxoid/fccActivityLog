@@ -6,3 +6,6 @@ reviewing some css ... and git apparently :)
 Refactored a cute penguin from FCC
 ###### 4-11-18
 Applied visual design subsection
+###### 5-11-18
+Applied visual design. At the end of the day the section will be completed
+I believe. @keyframes are powerful.
