@@ -11,3 +11,5 @@ Applied visual design. At the end of the day the section will be completed
 I believe. @keyframes are powerful.
 ###### 6-11-18
 Applied Accessibility section
+###### 7-11-18
+Responsive Web Design Principles. Side note: bind method returns a function which is identical to function on which bind invoked except 'this' is replaced by first argument of a bind function.
