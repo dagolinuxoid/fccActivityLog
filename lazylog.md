@@ -1,15 +1,17 @@
-###### 1-11-18
+###### 1-11-018
 reviewing some html tags
-###### 2-11-18
+###### 2-11-018
 reviewing some css ... and git apparently :)
-###### 3-11-18
+###### 3-11-018
 Refactored a cute penguin from FCC
-###### 4-11-18
+###### 4-11-018
 Applied visual design subsection
-###### 5-11-18
+###### 5-11-018
 Applied visual design. At the end of the day the section will be completed
 I believe. @keyframes are powerful.
-###### 6-11-18
+###### 6-11-018
 Applied Accessibility section
-###### 7-11-18
+###### 7-11-018
 Responsive Web Design Principles. Side note: bind method returns a function which is identical to function on which bind invoked except 'this' is replaced by first argument of a bind function.
+###### 8-11-018
+CSS Flexbox. Bonus: `this` and => arrow functions.
