@@ -15,3 +15,5 @@ Applied Accessibility section
 Responsive Web Design Principles. Side note: bind method returns a function which is identical to function on which bind invoked except 'this' is replaced by first argument of a bind function.
 ###### 8-11-018
 CSS Flexbox. Bonus: `this` and => arrow functions.
+###### 9-11-018
+CSS Grid
