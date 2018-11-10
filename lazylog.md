@@ -17,3 +17,5 @@ Responsive Web Design Principles. Side note: bind method returns a function whic
 CSS Flexbox. Bonus: `this` and => arrow functions.
 ###### 9-11-018
 CSS Grid
+###### 10-11-018
+Completed the dead-simple tribute page | about Yurnero.
