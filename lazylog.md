@@ -19,3 +19,5 @@ CSS Flexbox. Bonus: `this` and => arrow functions.
 CSS Grid
 ###### 10-11-018
 Completed the dead-simple tribute page | about Yurnero.
+###### 11-11-018
+Started to build a Survey Form | Responsive images practices
