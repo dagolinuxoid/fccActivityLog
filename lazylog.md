@@ -21,3 +21,5 @@ CSS Grid
 Completed the dead-simple tribute page | about Yurnero.
 ###### 11-11-018
 Started to build a Survey Form | Responsive images practices
+###### 12-11-018
+Completed Survey form challenge | git web-server client http
