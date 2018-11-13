@@ -23,3 +23,5 @@ Completed the dead-simple tribute page | about Yurnero.
 Started to build a Survey Form | Responsive images practices
 ###### 12-11-018
 Completed Survey form challenge | git web-server client http
+###### 13-11-018
+Symbol.iterator-next()-{done:false,value:v++} | started fcc build a product lp
