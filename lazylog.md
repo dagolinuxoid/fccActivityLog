@@ -25,3 +25,5 @@ Started to build a Survey Form | Responsive images practices
 Completed Survey form challenge | git web-server client http
 ###### 13-11-018
 Symbol.iterator-next()-{done:false,value:v++} | started fcc build a product lp
+###### 14-11-018
+Build product lp | dodn't proud about it, but I'm in a rush and not interested in tweaking thingks.
