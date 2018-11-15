@@ -27,3 +27,5 @@ Completed Survey form challenge | git web-server client http
 Symbol.iterator-next()-{done:false,value:v++} | started fcc build a product lp
 ###### 14-11-018
 Build product lp | dodn't proud about it, but I'm in a rush and not interested in tweaking thingks.
+###### 15-11-018
+Made a structure for docs page | built webify page
