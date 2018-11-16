@@ -29,3 +29,5 @@ Symbol.iterator-next()-{done:false,value:v++} | started fcc build a product lp
 Build product lp | dodn't proud about it, but I'm in a rush and not interested in tweaking thingks.
 ###### 15-11-018
 Made a structure for docs page | built webify page
+###### 16-11-018
+16/16 and 15/16 on narrower window. Is it a bug in tests? Checking issues to figure it out.
