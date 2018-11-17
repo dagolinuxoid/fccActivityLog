@@ -31,3 +31,5 @@ Build product lp | dodn't proud about it, but I'm in a rush and not interested i
 Made a structure for docs page | built webify page
 ###### 16-11-018
 16/16 and 15/16 on narrower window. Is it a bug in tests? Checking issues to figure it out.
+###### 17-11-018
+`git commit -m "Title for your commit" -m "A litle more exlanation"` No need for launching text editor for making long commits anymore :)
