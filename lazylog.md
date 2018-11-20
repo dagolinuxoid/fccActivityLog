@@ -43,3 +43,5 @@ browse the web in order to figure out which units (px, em, rem, %, v etc) use
 when
 ###### 19-11-018
 Made folio page | it looks like bare bones mock up but palette is nice
+###### 20-11-018
+Some refactoring on folio page
