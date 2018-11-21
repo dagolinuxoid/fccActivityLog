@@ -45,3 +45,5 @@ when
 Made folio page | it looks like bare bones mock up but palette is nice
 ###### 20-11-018
 Some refactoring on folio page
+###### 21-11-018
+js basics, es6 (partially)
