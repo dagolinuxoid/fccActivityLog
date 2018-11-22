@@ -47,3 +47,5 @@ Made folio page | it looks like bare bones mock up but palette is nice
 Some refactoring on folio page
 ###### 21-11-018
 js basics, es6 (partially)
+###### 22-11-018
+Solved getMaxSubSum my initial solution at 2211018 folder | continue on es6
