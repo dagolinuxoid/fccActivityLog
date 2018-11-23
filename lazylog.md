@@ -49,3 +49,6 @@ Some refactoring on folio page
 js basics, es6 (partially)
 ###### 22-11-018
 Solved getMaxSubSum my initial solution at 2211018 folder | continue on es6
+###### 23-11-018
+/regexp/i.test('str') but 'str'.match(/regexp/) | trying to figure out how to
+remember such API
