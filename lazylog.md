@@ -52,3 +52,5 @@ Solved getMaxSubSum my initial solution at 2211018 folder | continue on es6
 ###### 23-11-018
 /regexp/i.test('str') but 'str'.match(/regexp/) | trying to figure out how to
 remember such API
+###### 24-11-018
+RegExp obj only has two methods test() and exec()
