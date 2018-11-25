@@ -54,3 +54,5 @@ Solved getMaxSubSum my initial solution at 2211018 folder | continue on es6
 remember such API
 ###### 24-11-018
 RegExp obj only has two methods test() and exec()
+###### 25-11-018
+No much of enthusiasm due to headache.
