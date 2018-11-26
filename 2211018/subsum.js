@@ -1,4 +1,4 @@
-function solve(arr){
+function getMaxSubSum(arr){
   arr = cleanEdges(arr);
   if (arr.every(e=>e>0)) {
     return arr.reduce((sum,e)=>sum+e,0);
@@ -40,4 +40,4 @@ function groupSimilars (arr) {
   }
   return reducedArr;
 }
-module.exports = {solve, cleanEdges, groupSimilars};
+module.exports = {getMaxSubSum, cleanEdges, groupSimilars};

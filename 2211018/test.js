@@ -1,24 +1,35 @@
 const assert = require('assert').strict;
 const subSumModule = require('subsum');
-const {solve, cleanEdges, groupSimilars} = subSumModule;
+const {getMaxSubSum, cleanEdges, groupSimilars} = subSumModule;
 
-describe('solve functionality', () => {
-  it('sum === 5', () => {
-    assert.equal(solve([-1,2,3,-9]), 5);
+it("maximal subsum of [1, 2, 3] equals 6", function() {
+    assert.equal(getMaxSubSum([1, 2, 3]), 6);
   });
-  it('sum === 6', () => {
-    assert.equal(solve([2,-1,2,3,-9]), 6);
+
+  it("maximal subsum of [-1, 2, 3, -9] equals 5", function() {
+    assert.equal(getMaxSubSum([-1, 2, 3, -9]), 5);
   });
-  it('sum === 11', () => {
-    assert.equal(solve([-1,2,3,-9,11]), 11);
+
+  it("maximal subsum of [-1, 2, 3, -9, 11] equals 11", function() {
+    assert.equal(getMaxSubSum([-1, 2, 3, -9, 11]), 11);
   });
-  it('sum === 3', () => {
-    assert.equal(solve([-2,-1,1,2]), 3);
+
+  it("maximal subsum of [-2, -1, 1, 2] equals 3", function() {
+    assert.equal(getMaxSubSum([-2, -1, 1, 2]), 3);
   });
-  it('sum === 100', () => {
-    assert.equal(solve([100,-9,2,-3,5]), 100);
+
+  it("maximal subsum of [100, -9, 2, -3, 5] equals 100", function() {
+    assert.equal(getMaxSubSum([100, -9, 2, -3, 5]), 100);
   });
-  it('sum === 6', () => {
-    assert.equal(solve([1,2,3]), 6);
+
+  it("maximal subsum of [] equals 0", function() {
+    assert.equal(getMaxSubSum([]), 0);
   });
-});
+
+  it("maximal subsum of [-1] equals 0", function() {
+    assert.equal(getMaxSubSum([-1]), 0);
+  });
+
+  it("maximal subsum of [-1, -2] equals 0", function() {
+    assert.equal(getMaxSubSum([-1, -2]), 0);
+  });
