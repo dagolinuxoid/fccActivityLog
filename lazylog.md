@@ -56,3 +56,5 @@ remember such API
 RegExp obj only has two methods test() and exec()
 ###### 25-11-018
 No much of enthusiasm due to headache.
+###### 26-11-018
+Started debugging section
