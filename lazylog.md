@@ -58,3 +58,6 @@ RegExp obj only has two methods test() and exec()
 No much of enthusiasm due to headache.
 ###### 26-11-018
 Started debugging section
+###### 27-11-018
+basic data structures section
+Started debugging section
