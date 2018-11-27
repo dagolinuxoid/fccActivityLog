@@ -6,5 +6,3 @@ const getMaxSubSum = arr => {
   });
   return res;
 }
-
-module.exports = getMaxSubSum;
