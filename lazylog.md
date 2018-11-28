@@ -61,3 +61,5 @@ Started debugging section
 ###### 27-11-018
 basic data structures section
 Started debugging section
+###### 28-11-018
+Basic algorithm scripting
