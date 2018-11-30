@@ -65,3 +65,5 @@ Started debugging section
 Basic algorithm scripting
 ###### 29-11-018
 oop section
+###### 30-11-018
+Scope and Closures YDKJS
