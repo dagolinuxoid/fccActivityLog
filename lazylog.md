@@ -67,3 +67,5 @@ Basic algorithm scripting
 oop section
 ###### 30-11-018
 Scope and Closures YDKJS
+###### 01-12-018
+Worked on default arguments kata. Didn't solve it.
