@@ -69,3 +69,5 @@ oop section
 Scope and Closures YDKJS
 ###### 01-12-018
 Worked on default arguments kata. Didn't solve it.
+###### 02-12-018
+Solved defaultArguments, played with some DOM properties
