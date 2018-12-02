@@ -1,6 +1,6 @@
 // https://www.codewars.com/kata/default-arguments/train/javascript
 
-// improved solution which handles state | version 0.2
+// solves edge case when called with (undefined) argument | version 0.3
 
 let box;
 function defaultArguments(fn, o) {
@@ -20,7 +20,7 @@ function defaultArguments(fn, o) {
   defs = defs.map(v=>o[v]===undefined ? v : o[v]);
 
   return function hack(...args){
-    defs = defs.map((v,i)=>args[i]===undefined ? v : args[i]);
+    defs = defs.map((v,i)=>args[i]===undefined && args.length < i+1 ? v : args[i]);
     return fn(...defs);
   }
 }
