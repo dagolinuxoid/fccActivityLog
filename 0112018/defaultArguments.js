@@ -1,6 +1,7 @@
 // https://www.codewars.com/kata/default-arguments/train/javascript
 
-// my initial solution which doesn't work
+// my initial solution which doesn't work | version 0
+
 function defaultArguments(fn, o) {
   let list = fn.toString().match(/\((.*?)\)/);
   if (list === null) return fn;
