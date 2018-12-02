@@ -1,19 +1,24 @@
 // https://www.codewars.com/kata/default-arguments/train/javascript
 
-// solves edge case when called with (undefined) argument | version 0.3
+// solition that passes all tests | version 1.0
 
 let box;
-function defaultArguments(fn, o) {
-  let list = fn.toString().match(/\((.*?)\)/);
 
+const deleteComments = (str) => {
+  return str.replace(/(\/\*([\s\S]*?)\*\/)|(\/\/(.*)$)/gm, '').replace(/\s/g,'');
+};
+
+function defaultArguments(fn, o) {
+  let cleanSrc = deleteComments(fn.toString());
+  let list = cleanSrc.match(/\((.*?)\)/);
   if (list === null) return fn;
   let defs;
-
-  if (list[list.length-1].includes('...')) {
+  let argumentsStr = list[list.length-1];
+  if (argumentsStr.includes('...')) {
     defs = box;
   }
   else {
-    defs = list[list.length-1].split(',').map(v=>v.trim());
+    defs = argumentsStr.split(',');
     box = defs;
   }
 
