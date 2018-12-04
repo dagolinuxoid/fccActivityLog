@@ -73,3 +73,5 @@ Worked on default arguments kata. Didn't solve it.
 Solved defaultArguments, played with some DOM properties
 ###### 03-12-018
 FunctionalProgramming
+###### 04-12-018
+going through JSR (the child phase)
