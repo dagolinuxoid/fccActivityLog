@@ -75,3 +75,5 @@ Solved defaultArguments, played with some DOM properties
 FunctionalProgramming
 ###### 04-12-018
 going through JSR (the child phase)
+###### 05-12-018
+DOM
