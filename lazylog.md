@@ -77,3 +77,5 @@ FunctionalProgramming
 going through JSR (the child phase)
 ###### 05-12-018
 DOM
+###### 06-12-018
+Intermediate Algorithm Scripting
