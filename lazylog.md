@@ -1,4 +1,5 @@
-###### 1-11-018 reviewing some html tags
+###### 1-11-018
+reviewing some html tags
 ###### 2-11-018
 reviewing some css ... and git apparently :)
 ###### 3-11-018
@@ -80,3 +81,6 @@ DOM
 Intermediate Algorithm Scripting
 ###### 07-12-018
 day 37 DOM API and Intermediate Algorithm Scripting
+###### 08-12-018
+continue on Intermediate Algorithm Scripting
+
