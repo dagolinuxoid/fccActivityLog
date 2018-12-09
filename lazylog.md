@@ -83,4 +83,6 @@ Intermediate Algorithm Scripting
 day 37 DOM API and Intermediate Algorithm Scripting
 ###### 08-12-018
 continue on Intermediate Algorithm Scripting
+###### 09-12-018
+completed few algorithms from fcc
 
