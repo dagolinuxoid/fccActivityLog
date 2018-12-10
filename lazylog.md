@@ -85,4 +85,6 @@ day 37 DOM API and Intermediate Algorithm Scripting
 continue on Intermediate Algorithm Scripting
 ###### 09-12-018
 completed few algorithms from fcc
+###### 10-12-018
+Thinking about how to implement LCM(arrayOfNums)
 
