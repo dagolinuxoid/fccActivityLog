@@ -87,4 +87,6 @@ continue on Intermediate Algorithm Scripting
 completed few algorithms from fcc
 ###### 10-12-018
 Thinking about how to implement LCM(arrayOfNums)
+###### 11-12-018
+Didn't do much today - reviewed some JS features.
 
