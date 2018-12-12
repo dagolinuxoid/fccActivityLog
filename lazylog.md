@@ -89,4 +89,6 @@ completed few algorithms from fcc
 Thinking about how to implement LCM(arrayOfNums)
 ###### 11-12-018
 Didn't do much today - reviewed some JS features.
+###### 12-12-018
+Day 42 - solved lcm algorithm in JS.
 
