@@ -91,4 +91,6 @@ Thinking about how to implement LCM(arrayOfNums)
 Didn't do much today - reviewed some JS features.
 ###### 12-12-018
 Day 42 - solved lcm algorithm in JS.
+###### 13-12-018
+Design patterns JS
 
