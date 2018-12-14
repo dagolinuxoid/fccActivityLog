@@ -93,4 +93,6 @@ Didn't do much today - reviewed some JS features.
 Day 42 - solved lcm algorithm in JS.
 ###### 13-12-018
 Design patterns JS
+###### 14-12-018
+Finished intermediate algorithm scripting. It's time to see provided solutions.
 
