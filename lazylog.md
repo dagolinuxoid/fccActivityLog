@@ -95,4 +95,6 @@ Day 42 - solved lcm algorithm in JS.
 Design patterns JS
 ###### 14-12-018
 Finished intermediate algorithm scripting. It's time to see provided solutions.
+###### 15-12-018
+Continue to examine solutions for algorithms.
 
