@@ -97,4 +97,7 @@ Design patterns JS
 Finished intermediate algorithm scripting. It's time to see provided solutions.
 ###### 15-12-018
 Continue to examine solutions for algorithms.
+###### 16-12-018
+My thorough examination of solutions showed that some implementations have
+flaws and I consider to fix it through contribution to the fcc curriculum.
 
