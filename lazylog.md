@@ -100,4 +100,6 @@ Continue to examine solutions for algorithms.
 ###### 16-12-018
 My thorough examination of solutions showed that some implementations have
 flaws and I consider to fix it through contribution to the fcc curriculum.
+###### 17-12-018
+Started to work on JS algs and DS projects part.
 
