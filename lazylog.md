@@ -102,4 +102,6 @@ My thorough examination of solutions showed that some implementations have
 flaws and I consider to fix it through contribution to the fcc curriculum.
 ###### 17-12-018
 Started to work on JS algs and DS projects part.
+###### 18-12-018
+Solved palindrome and thinking about Roman numerals
 
