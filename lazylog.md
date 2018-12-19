@@ -104,4 +104,6 @@ flaws and I consider to fix it through contribution to the fcc curriculum.
 Started to work on JS algs and DS projects part.
 ###### 18-12-018
 Solved palindrome and thinking about Roman numerals
+###### 19-12-018
+JS Promises
 
