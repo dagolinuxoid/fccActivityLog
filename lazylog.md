@@ -106,4 +106,6 @@ Started to work on JS algs and DS projects part.
 Solved palindrome and thinking about Roman numerals
 ###### 19-12-018
 JS Promises
+###### 20-12-018
+Intro to math thinking week 1 - finished.
 
