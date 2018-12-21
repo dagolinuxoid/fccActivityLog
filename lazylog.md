@@ -108,4 +108,6 @@ Solved palindrome and thinking about Roman numerals
 JS Promises
 ###### 20-12-018
 Intro to math thinking week 1 - finished.
+###### 21-12-018
+Solved all tasks until cash register
 
