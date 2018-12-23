@@ -112,4 +112,6 @@ Intro to math thinking week 1 - finished.
 Solved all tasks until cash register
 ###### 22-12-018
 day 52 - Solved the last cashRegister task from Algs Section
+###### 23-12-018
+Implication a => b
 
