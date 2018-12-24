@@ -114,4 +114,6 @@ Solved all tasks until cash register
 day 52 - Solved the last cashRegister task from Algs Section
 ###### 23-12-018
 Implication a => b
+###### 24-12-018
+equivalence
 
