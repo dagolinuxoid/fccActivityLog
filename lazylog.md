@@ -116,4 +116,6 @@ day 52 - Solved the last cashRegister task from Algs Section
 Implication a => b
 ###### 24-12-018
 equivalence
+###### 25-12-018
+sass
 
