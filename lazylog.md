@@ -118,4 +118,6 @@ Implication a => b
 equivalence
 ###### 25-12-018
 sass
+###### 26-12-018
+Map, Set, WeakMap and WeakSet
 
