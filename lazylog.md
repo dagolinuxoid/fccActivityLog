@@ -120,4 +120,6 @@ equivalence
 sass
 ###### 26-12-018
 Map, Set, WeakMap and WeakSet
+###### 27-12-018
+Tasks
 
