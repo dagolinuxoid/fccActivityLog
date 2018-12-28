@@ -122,4 +122,6 @@ sass
 Map, Set, WeakMap and WeakSet
 ###### 27-12-018
 Tasks
+###### 28-12-018
+Object keys.values.entries chapter
 
