@@ -124,4 +124,6 @@ Map, Set, WeakMap and WeakSet
 Tasks
 ###### 28-12-018
 Object keys.values.entries chapter
+###### 29-12-018
+Destructuring assignment
 
