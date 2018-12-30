@@ -126,4 +126,6 @@ Tasks
 Object keys.values.entries chapter
 ###### 29-12-018
 Destructuring assignment
+###### 30-12-018
+Date and time
 
