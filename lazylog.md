@@ -130,4 +130,8 @@ Destructuring assignment
 Date and time
 ###### 31-12-018
 Date and time tasks
-
+###### 01-01-019
+"Advanced working with function" section has 12 chapters
+1 chapter is Recursion and stack. Reading, understanding and solving tasks
+take one day for each chapter. In twelve days the section will be done...
+I believe :) day 62.
