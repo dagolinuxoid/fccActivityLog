@@ -135,3 +135,6 @@ Date and time tasks
 1 chapter is Recursion and stack. Reading, understanding and solving tasks
 take one day for each chapter. In twelve days the section will be done...
 I believe :) day 62.
+###### 02-01-019
+day 63 | Jump to chapter 2 (Rest parameters and spread operator) Didn't solved
+tasks from chapter 1 yet - I'm going to make it today.
