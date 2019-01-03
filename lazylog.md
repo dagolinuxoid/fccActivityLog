@@ -138,3 +138,7 @@ I believe :) day 62.
 ###### 02-01-019
 day 63 | Jump to chapter 2 (Rest parameters and spread operator) Didn't solved
 tasks from chapter 1 yet - I'm going to make it today.
+###### 03-01-019
+day 64 Closusre tasks, execution context, lexical environment, call stack,
+The old "var", Global object, Function object, NFE, the "new Function" syntax
+Scheduling: setTimeout and setInterval
