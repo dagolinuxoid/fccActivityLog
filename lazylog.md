@@ -142,3 +142,5 @@ tasks from chapter 1 yet - I'm going to make it today.
 day 64 Closusre tasks, execution context, lexical environment, call stack,
 The old "var", Global object, Function object, NFE, the "new Function" syntax
 Scheduling: setTimeout and setInterval
+###### 04-01-019
+day 65 reread previous chapters and practice with code.
