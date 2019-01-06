@@ -146,3 +146,5 @@ Scheduling: setTimeout and setInterval
 day 65 reread previous chapters and practice with code.
 ###### 05-01-019
 day 66 Decorators
+###### 06-01-019
+day 67 Function binding
