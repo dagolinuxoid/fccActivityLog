@@ -4,7 +4,7 @@ function print(from,to){
   if (from <= to) setTimeout(print, 1000, from, to);
 }
 
-// it increment a given number forever why?
+// it increments a given number forever why?
 function printFlaw(from, to){
   let idInt = setInterval(()=>console.log(from++), 1000);
   if (from > to) clearInterval(idInt);
