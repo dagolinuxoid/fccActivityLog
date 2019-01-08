@@ -151,3 +151,5 @@ day 67 Function binding
 ###### 07-01-019
 day 68 Solved all tasks from setTimeout and setInterval chapter | Currying
 and partials | Arrow functions revisited
+###### 08-01-019
+day 69 I'm starting Objects, classes, inheritance section
