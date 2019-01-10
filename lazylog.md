@@ -156,3 +156,5 @@ day 69 I'm starting Objects, classes, inheritance section
 ###### 09-01-019
 day 70 | Object.defineProperty~ies/getOwnPropertyDescriptor~s
 property-value,enumerable,configurable,writable
+###### 10-01-019
+day 71 F.prototype, Native prototypes, Methods for prototypes
