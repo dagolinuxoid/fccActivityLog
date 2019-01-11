@@ -158,3 +158,5 @@ day 70 | Object.defineProperty~ies/getOwnPropertyDescriptor~s
 property-value,enumerable,configurable,writable
 ###### 10-01-019
 day 71 F.prototype, Native prototypes, Methods for prototypes
+###### 11-01-019
+day 72 reviewed previous lessons
