@@ -160,3 +160,5 @@ property-value,enumerable,configurable,writable
 day 71 F.prototype, Native prototypes, Methods for prototypes
 ###### 11-01-019
 day 72 reviewed previous lessons
+###### 12-01-019
+day 73 Class patterns
