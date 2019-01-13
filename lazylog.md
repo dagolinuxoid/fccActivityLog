@@ -162,3 +162,5 @@ day 71 F.prototype, Native prototypes, Methods for prototypes
 day 72 reviewed previous lessons
 ###### 12-01-019
 day 73 Class patterns
+###### 13-01-019
+day 74 Class inheritance, super
