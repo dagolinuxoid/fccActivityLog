@@ -164,3 +164,6 @@ day 72 reviewed previous lessons
 day 73 Class patterns
 ###### 13-01-019
 day 74 Class inheritance, super
+###### 14-01-019
+day 75 Class inheritance, super -> didn't manage to wrap my head around it.
+
