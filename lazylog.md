@@ -168,3 +168,5 @@ day 74 Class inheritance, super
 day 75 Class inheritance, super -> didn't manage to wrap my head around it.
 ###### 15-01-019
 day 76 try {} catch(err) {}
+###### 16-01-019
+day 77 Custom errors, extending Error
