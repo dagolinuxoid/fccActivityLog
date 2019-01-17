@@ -170,3 +170,6 @@ day 75 Class inheritance, super -> didn't manage to wrap my head around it.
 day 76 try {} catch(err) {}
 ###### 16-01-019
 day 77 Custom errors, extending Error
+###### 17-01-019
+day 78 NodeList -> childNodes - children, parentNode - parentElement,
+firstChild - firstElementChild etc.
