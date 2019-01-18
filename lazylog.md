@@ -173,3 +173,5 @@ day 77 Custom errors, extending Error
 ###### 17-01-019
 day 78 NodeList -> childNodes - children, parentNode - parentElement,
 firstChild - firstElementChild etc.
+###### 18-01-019
+day 79 Node properties: type, tag and contents
