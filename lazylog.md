@@ -175,3 +175,5 @@ day 78 NodeList -> childNodes - children, parentNode - parentElement,
 firstChild - firstElementChild etc.
 ###### 18-01-019
 day 79 Node properties: type, tag and contents
+###### 19-01-019
+day 80 Encountered difficulties solving tasks that require recursive traversals
