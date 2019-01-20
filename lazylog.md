@@ -177,3 +177,5 @@ firstChild - firstElementChild etc.
 day 79 Node properties: type, tag and contents
 ###### 19-01-019
 day 80 Encountered difficulties solving tasks that require recursive traversals
+###### 20-01-019
+day 81 Modifying the document
