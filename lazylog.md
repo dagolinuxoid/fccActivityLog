@@ -179,3 +179,5 @@ day 79 Node properties: type, tag and contents
 day 80 Encountered difficulties solving tasks that require recursive traversals
 ###### 20-01-019
 day 81 Modifying the document
+###### 21-01-019
+day 82 Tasks:
