@@ -30,7 +30,7 @@ function createTree(container, data) {
             const li = document.createElement('li');
             li.textContent = prop;
             ul.append(li);
-            createTree(ul, data[prop]);
+            createTree(ul, data[prop]); // should be createTree(li, data[prop])
         });
     }
     return;
