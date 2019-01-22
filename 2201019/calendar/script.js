@@ -38,9 +38,10 @@ function createCalendar(cal, year, month) {
         table.append(row);
         [...Array(7)].forEach(() => {
             let td = document.createElement('td');
-            row.append(td);
+            counter += 1;
             if (counter > lastDate) return;
-            td.textContent = ++counter;
+            row.append(td); // order matters! a bug has been fixed :)
+            td.textContent = counter;
         });
     }
 }
