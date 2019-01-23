@@ -183,3 +183,5 @@ day 81 Modifying the document
 day 82 Tasks:
 ###### 22-01-019
 day 83 createCalendar()
+###### 23-01-019
+day 84 coloredClockWithSetInterval() Styles and classes
