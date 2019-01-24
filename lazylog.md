@@ -185,3 +185,5 @@ day 82 Tasks:
 day 83 createCalendar()
 ###### 23-01-019
 day 84 coloredClockWithSetInterval() Styles and classes
+###### 24-01-019
+day 85 Created a notification via elem.style.cssText and via elem.style.prop
