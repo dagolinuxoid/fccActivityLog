@@ -187,3 +187,5 @@ day 83 createCalendar()
 day 84 coloredClockWithSetInterval() Styles and classes
 ###### 24-01-019
 day 85 Created a notification via elem.style.cssText and via elem.style.prop
+###### 25-01-019
+day 86 finished offset/client~props and Started Window size and scrolling
