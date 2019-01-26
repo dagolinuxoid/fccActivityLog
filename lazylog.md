@@ -189,3 +189,5 @@ day 84 coloredClockWithSetInterval() Styles and classes
 day 85 Created a notification via elem.style.cssText and via elem.style.prop
 ###### 25-01-019
 day 86 finished offset/client~props and Started Window size and scrolling
+###### 26-01-019
+day 87 Coordinates
