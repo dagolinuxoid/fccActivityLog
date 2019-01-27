@@ -191,3 +191,6 @@ day 85 Created a notification via elem.style.cssText and via elem.style.prop
 day 86 finished offset/client~props and Started Window size and scrolling
 ###### 26-01-019
 day 87 Coordinates
+###### 27-01-019
+day 88 I'm reviewing the whole Document section before moving to
+Introduction into Events.
