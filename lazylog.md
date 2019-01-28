@@ -194,3 +194,5 @@ day 87 Coordinates
 ###### 27-01-019
 day 88 I'm reviewing the whole Document section before moving to
 Introduction into Events.
+###### 28-01-019
+day 89 Finished coordinates tasks and started first Events section.
