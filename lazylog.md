@@ -198,3 +198,7 @@ Introduction into Events.
 day 89 Finished coordinates tasks and started first Events section.
 ###### 29-01-019
 day 90 Back to coordinates. It proved to be such a demanding subject :)
+###### 30-01-019
+day 91 regular object with the handleEvent method can be used as a second
+argument of addEventListener function. Didn't know about it.
+
