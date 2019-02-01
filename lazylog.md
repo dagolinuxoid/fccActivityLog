@@ -203,4 +203,6 @@ day 91 regular object with the handleEvent method can be used as a second
 argument of addEventListener function. Didn't know about it.
 ###### 31-01-019
 day 92 Bubbling and capturing
+###### 01-02-019
+day 93 codewars :)
 
