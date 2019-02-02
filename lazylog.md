@@ -205,4 +205,6 @@ argument of addEventListener function. Didn't know about it.
 day 92 Bubbling and capturing
 ###### 01-02-019
 day 93 codewars :)
+###### 02-02-019
+day 94 Tasks!
 
