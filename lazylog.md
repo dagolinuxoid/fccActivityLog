@@ -212,4 +212,5 @@ day 95 Solved task, found a bug, fixed the bug - all works. Decided to rewrite
 my solution from scratch using small functions. Build my solution - it doesn't
 work properly... I do refactoring and trying to figure out what's wrong, still
 didn't find the new damn bug yet.
-
+###### 04-02-019
+day 96 found all bugs and fixed them :). Solved 2 katas from codewars as well.
