@@ -214,3 +214,5 @@ work properly... I do refactoring and trying to figure out what's wrong, still
 didn't find the new damn bug yet.
 ###### 04-02-019
 day 96 found all bugs and fixed them :). Solved 2 katas from codewars as well.
+###### 05-02-019
+day 97 Event delegation
