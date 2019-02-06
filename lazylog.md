@@ -216,3 +216,5 @@ didn't find the new damn bug yet.
 day 96 found all bugs and fixed them :). Solved 2 katas from codewars as well.
 ###### 05-02-019
 day 97 Event delegation
+###### 06-02-019
+day 98 Understanding ECMAScript 6 by Zakas | tasks jsInfo| chill on codewars
