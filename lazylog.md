@@ -220,3 +220,5 @@ day 97 Event delegation
 day 98 Understanding ECMAScript 6 by Zakas | tasks jsInfo| chill on codewars
 ###### 07-02-019
 day 99 vanilla JS
+###### 08-02-019
+day 100 debugger in Firefox
