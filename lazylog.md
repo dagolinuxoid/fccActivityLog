@@ -222,3 +222,5 @@ day 98 Understanding ECMAScript 6 by Zakas | tasks jsInfo| chill on codewars
 day 99 vanilla JS
 ###### 08-02-019
 day 100 debugger in Firefox
+###### 09-02-019
+day 101 vsCode debugger is pretty good. Regexp course.
