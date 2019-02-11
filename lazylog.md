@@ -226,3 +226,5 @@ day 100 debugger in Firefox
 day 101 vsCode debugger is pretty good. Regexp course.
 ###### 10-02-019
 day 102 Understanding ECMAScript 6 Strings and Regular Expressions, Funcitons
+###### 11-02-019
+day 103 Browser default actions
