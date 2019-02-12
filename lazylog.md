@@ -228,3 +228,6 @@ day 101 vsCode debugger is pretty good. Regexp course.
 day 102 Understanding ECMAScript 6 Strings and Regular Expressions, Funcitons
 ###### 11-02-019
 day 103 Browser default actions
+###### 12-02-019
+day 104 review intro to browser events chapter and solve its last remaining
+task - Carousel.
