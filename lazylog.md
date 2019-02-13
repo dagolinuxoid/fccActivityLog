@@ -231,3 +231,5 @@ day 103 Browser default actions
 ###### 12-02-019
 day 104 review intro to browser events chapter and solve its last remaining
 task - Carousel.
+###### 13-02-019
+day 105 continue to build things and learn css.
