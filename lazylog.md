@@ -233,3 +233,6 @@ day 104 review intro to browser events chapter and solve its last remaining
 task - Carousel.
 ###### 13-02-019
 day 105 continue to build things and learn css.
+###### 14-02-019
+day 106 work on algorithms (codewars) and web projects. Learn how to debug JS
+in vscode properly.
