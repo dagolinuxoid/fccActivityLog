@@ -236,3 +236,5 @@ day 105 continue to build things and learn css.
 ###### 14-02-019
 day 106 work on algorithms (codewars) and web projects. Learn how to debug JS
 in vscode properly.
+###### 15-02-019
+day 107 carousels - 15.02 - today is a birthday of my brother Michael.
