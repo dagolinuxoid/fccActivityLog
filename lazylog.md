@@ -243,3 +243,5 @@ day 108 vscode {theme: "Material Light", font-family: "Hack", font-size: "16"}
 I'm finally happy to stare at the code editor right now.
 ###### 17-02-019
 day 109 | code and code :)
+###### 18-02-019
+day 110 | I've solved gcd and lcm again. Now I really understand the algorithms
