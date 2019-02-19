@@ -245,3 +245,6 @@ I'm finally happy to stare at the code editor right now.
 day 109 | code and code :)
 ###### 18-02-019
 day 110 | I've solved gcd and lcm again. Now I really understand the algorithms
+###### 19-02-019
+day 111 I foud that vsCode has an awesome scope command for inspecting syntax.
+Currently working on Browser section and codewars.
