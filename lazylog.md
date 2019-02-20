@@ -248,3 +248,5 @@ day 110 | I've solved gcd and lcm again. Now I really understand the algorithms
 ###### 19-02-019
 day 111 I foud that vsCode has an awesome scope command for inspecting syntax.
 Currently working on Browser section and codewars.
+###### 20-02-019
+day 112 how to learn CSS | by Rachel Andrew
