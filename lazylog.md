@@ -250,3 +250,5 @@ day 111 I foud that vsCode has an awesome scope command for inspecting syntax.
 Currently working on Browser section and codewars.
 ###### 20-02-019
 day 112 how to learn CSS | by Rachel Andrew
+###### 21-02-019
+day 113 longestPalindrom and BEYOND
