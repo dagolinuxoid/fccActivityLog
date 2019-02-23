@@ -254,3 +254,5 @@ day 112 how to learn CSS | by Rachel Andrew
 day 113 longestPalindrom and BEYOND
 ###### 22-02-019
 day 114 soundcloud carousel
+###### 23-02-019
+day 115 code on codewars
