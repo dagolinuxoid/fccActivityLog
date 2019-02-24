@@ -256,3 +256,6 @@ day 113 longestPalindrom and BEYOND
 day 114 soundcloud carousel
 ###### 23-02-019
 day 115 code on codewars
+###### 24-02-019
+day 116 code on codewars plus js info (soundcloud carousel is taking too long,
+for some reason I just don't want to build html/css structure for it)
