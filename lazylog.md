@@ -259,3 +259,6 @@ day 115 code on codewars
 ###### 24-02-019
 day 116 code on codewars plus js info (soundcloud carousel is taking too long,
 for some reason I just don't want to build html/css structure for it)
+###### 25-02-019
+day 117 I've relocated for a week or so. No much coding activity during this period of time.
+At least I'm doing something. Mostly codewars I suppose.
