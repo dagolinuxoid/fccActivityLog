@@ -262,3 +262,6 @@ for some reason I just don't want to build html/css structure for it)
 ###### 25-02-019
 day 117 I've relocated for a week or so. No much coding activity during this period of time.
 At least I'm doing something. Mostly codewars I suppose.
+###### 26-02-019
+day 118 encountered an interesting case of using reduce and bind together- it took some time
+to understand it. ```function chained(list){ return [].reduce.bind(list,(v,fn)=>fn(v))}```
