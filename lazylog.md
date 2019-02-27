@@ -265,3 +265,5 @@ At least I'm doing something. Mostly codewars I suppose.
 ###### 26-02-019
 day 118 encountered an interesting case of using reduce and bind together- it took some time
 to understand it. ```function chained(list){ return [].reduce.bind(list,(v,fn)=>fn(v))}```
+###### 27-02-019
+day 119 - codewars
