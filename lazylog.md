@@ -267,3 +267,5 @@ day 118 encountered an interesting case of using reduce and bind together- it to
 to understand it. ```function chained(list){ return [].reduce.bind(list,(v,fn)=>fn(v))}```
 ###### 27-02-019
 day 119 - codewars
+###### 28-02-019
+day 120 Operator precedence - once and for all :)
