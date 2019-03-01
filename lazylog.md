@@ -269,3 +269,7 @@ to understand it. ```function chained(list){ return [].reduce.bind(list,(v,fn)=>
 day 119 - codewars
 ###### 28-02-019
 day 120 Operator precedence - once and for all :)
+###### 01-03-019
+day 121 parseInt('someNumberAL', 'base aka charset but for numbers UTF-8/2(binary)')
+decimalNumber.toString(base) -> converts decimal number to a number of the specified base
+and returns its as a string
