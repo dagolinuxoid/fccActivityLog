@@ -277,3 +277,5 @@ and returns its as a string
 day 123 code and code (codewars 7kuy) BTW yesterday I didn't do a single commit.
 ###### 04-03-019
 day 124 codewars 2kuy rank is coming.
+###### 05-03-019
+day 125 95.9%
