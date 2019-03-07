@@ -281,3 +281,9 @@ day 124 codewars 2kuy rank is coming.
 day 125 95.9%
 ###### 06-03-019
 day 126 98.4% I'm coming back today from 'vacation' and will code as much as I can - departure at 10.00 AM.
+###### 07-03-019
+day 127 Yestarday I got nasty from <ip address> Destination Host Unreachable
+It's not funny at all :(. Today my network is going crazy as well :(.
+Sometimes ping to ip gives the error message but sometimes internet is working.
+At the time of writing the log I am not sure if I will be able to deliver my
+changes to remote github server due to the issues.
