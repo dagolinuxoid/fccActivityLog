@@ -287,3 +287,6 @@ It's not funny at all :(. Today my network is going crazy as well :(.
 Sometimes ping to ip gives the error message but sometimes internet is working.
 At the time of writing the log I am not sure if I will be able to deliver my
 changes to remote github server due to the issues.
+###### 08-03-019
+day 128 No network devices available :(. I read about houndred pages of an old
+pdf book: The Definitive Guide 6th edition by Flanagan xD.
