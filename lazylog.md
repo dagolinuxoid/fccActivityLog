@@ -290,3 +290,5 @@ changes to remote github server due to the issues.
 ###### 08-03-019
 day 128 No network devices available :(. I read about houndred pages of an old
 pdf book: The Definitive Guide 6th edition by Flanagan xD.
+###### 09-03-019
+day 129 Actually it's a pretty good book.
