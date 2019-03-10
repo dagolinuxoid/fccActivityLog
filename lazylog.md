@@ -292,3 +292,5 @@ day 128 No network devices available :(. I read about houndred pages of an old
 pdf book: The Definitive Guide 6th edition by Flanagan xD.
 ###### 09-03-019
 day 129 Actually it's a pretty good book.
+###### 10-03-019
+day 130 Objects. | HAIRCUT COUNTDOWN started at (March 01 2019)
