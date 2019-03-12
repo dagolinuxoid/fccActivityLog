@@ -297,3 +297,5 @@ day 130 Objects. | HAIRCUT COUNTDOWN started at (March 01 2019)
 ###### 11-03-019
 day 131 Arrays. Yesterday I called to service and hope that the internet will be
 fixed soon.
+###### 12-03-019
+day 132 Funcitons.
