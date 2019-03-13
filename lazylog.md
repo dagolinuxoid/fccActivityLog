@@ -299,3 +299,6 @@ day 131 Arrays. Yesterday I called to service and hope that the internet will be
 fixed soon.
 ###### 12-03-019
 day 132 Funcitons.
+###### 13-03-019
+day 133 Internet is working again. Perhaps it's the biggest news. Functional
+Programming. 2kuy on codewars.
