@@ -302,3 +302,5 @@ day 132 Funcitons.
 ###### 13-03-019
 day 133 Internet is working again. Perhaps it's the biggest news. Functional
 Programming. 2kuy on codewars.
+###### 14-03-019
+day 134 Functions
