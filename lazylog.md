@@ -306,3 +306,9 @@ Programming. 2kuy on codewars.
 day 134 Functions
 ###### 15-03-019
 day 135 Base64 encoding, MD5 hash generator, nodeJS
+###### 16-03-019
+day 136 I was fixing my old logitech h130 headphones. I did some coding as I
+always do. Happy to make working headphones (I get rid of the microphone and now
+they are looking even better, it was a bit tricky to assembe headphones using
+'third party': cable from samsung headphones which does not have 3.5jack plug
+a bit of wire with 3.5 jack and logitech headphones without cable);
