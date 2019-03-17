@@ -312,3 +312,5 @@ always do. Happy to make working headphones (I get rid of the microphone and now
 they are looking even better, it was a bit tricky to assembe headphones using
 'third party': cable from samsung headphones which does not have 3.5jack plug
 a bit of wire with 3.5 jack and logitech headphones without cable);
+###### 17-03-019
+day 137 back to javascriptinfo | review and go forward
