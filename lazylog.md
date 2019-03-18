@@ -314,3 +314,5 @@ they are looking even better, it was a bit tricky to assembe headphones using
 a bit of wire with 3.5 jack and logitech headphones without cable);
 ###### 17-03-019
 day 137 back to javascriptinfo | review and go forward
+###### 18-03-019
+day 138 web-ext
