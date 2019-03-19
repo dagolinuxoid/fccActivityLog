@@ -316,3 +316,5 @@ a bit of wire with 3.5 jack and logitech headphones without cable);
 day 137 back to javascriptinfo | review and go forward
 ###### 18-03-019
 day 138 web-ext
+###### 19-03-019
+day 139 codewars javascriptinfo
