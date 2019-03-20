@@ -318,3 +318,5 @@ day 137 back to javascriptinfo | review and go forward
 day 138 web-ext
 ###### 19-03-019
 day 139 codewars javascriptinfo
+###### 20-03-019
+day 140 solved first 2kyu kata by Voile (hello world-multiLineTask)
