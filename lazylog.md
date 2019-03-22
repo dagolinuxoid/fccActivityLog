@@ -322,3 +322,5 @@ day 139 codewars javascriptinfo
 day 140 solved first 2kyu kata by Voile (hello world-multiLineTask)
 ###### 21-03-019
 day 141 5207->#539
+###### 22-03-019
+day 142 `const f= Funciton.prototype.call.bind(String.prototype.toUpperCase)`;
