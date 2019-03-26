@@ -324,3 +324,7 @@ day 140 solved first 2kyu kata by Voile (hello world-multiLineTask)
 day 141 5207->#539
 ###### 22-03-019
 day 142 `const f= Funciton.prototype.call.bind(String.prototype.toUpperCase)`;
+###### 26-03-019
+day ... I've been in a 'trip' so to speak and didn't code. At this point I am deciding
+on what a number should I put next to the day word. I'm not going to count anymore I
+suppose. Solved 1 kyu today. It wasn't that difficult, rather cumbersome.
