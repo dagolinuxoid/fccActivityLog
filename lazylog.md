@@ -328,3 +328,6 @@ day 142 `const f= Funciton.prototype.call.bind(String.prototype.toUpperCase)`;
 //gapEnd
 ###### 29-03-019
 No network devices available happened again ::sadFace:: :-/
+###### 30-03-019
+A Set Class - it was a lovely read.
+Perseverance.
