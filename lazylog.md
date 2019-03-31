@@ -331,3 +331,6 @@ No network devices available happened again ::sadFace:: :-/
 ###### 30-03-019
 A Set Class - it was a lovely read.
 Perseverance.
+###### 31-03-019
+Internet is back! I bought Ethernet network adapter for about 8 bucks and
+everything is working right now.
