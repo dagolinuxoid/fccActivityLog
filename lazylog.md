@@ -342,3 +342,5 @@ everything is working right now.
 codewars
 ###### 03-04-019
 6.509 aim for the top :)
+###### 04-04-019
+javascriptInfo -> Document
