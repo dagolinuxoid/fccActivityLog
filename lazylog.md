@@ -344,3 +344,6 @@ codewars
 6.509 aim for the top :)
 ###### 04-04-019
 javascriptInfo -> Document
+###### 05-04-019
+I installed anki to improve my learning process. I'm excited!
+javascriptInfo -> Document
