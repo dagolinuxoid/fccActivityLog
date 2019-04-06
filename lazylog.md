@@ -347,3 +347,5 @@ javascriptInfo -> Document
 ###### 05-04-019
 I installed anki to improve my learning process. I'm excited!
 javascriptInfo -> Document
+###### 06-04-019
+curl -O -s + document.querySelector('[data-src-mp3]').dataset.srcMp3
