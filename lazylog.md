@@ -351,3 +351,5 @@ javascriptInfo -> Document
 curl -O -s + document.querySelector('[data-src-mp3]').dataset.srcMp3
 ###### 07-04-019
 thinking about how to have fun and do right things simultaneously.
+###### 08-04-019
+learning intro to browser events section from "javascript.info" again.
