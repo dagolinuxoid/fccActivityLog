@@ -353,3 +353,5 @@ curl -O -s + document.querySelector('[data-src-mp3]').dataset.srcMp3
 thinking about how to have fun and do right things simultaneously.
 ###### 08-04-019
 learning intro to browser events section from "javascript.info" again.
+###### 09-04-019
+Event delegation+
