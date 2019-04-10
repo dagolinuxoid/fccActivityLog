@@ -355,3 +355,5 @@ thinking about how to have fun and do right things simultaneously.
 learning intro to browser events section from "javascript.info" again.
 ###### 09-04-019
 Event delegation+
+###### 10-04-019
+bubbling / event delegation / browser default actions - conclusion
