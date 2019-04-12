@@ -357,3 +357,6 @@ learning intro to browser events section from "javascript.info" again.
 Event delegation+
 ###### 10-04-019
 bubbling / event delegation / browser default actions - conclusion
+###### 12-04-019
+discovered kick start competition and trying to figure out how to manage
+input output for the tasks. I'm going to use JavaScript (they support nodejs)
