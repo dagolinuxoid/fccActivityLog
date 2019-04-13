@@ -360,3 +360,6 @@ bubbling / event delegation / browser default actions - conclusion
 ###### 12-04-019
 discovered kick start competition and trying to figure out how to manage
 input output for the tasks. I'm going to use JavaScript (they support nodejs)
+###### 13-04-019
+I have a task and corresponding input for the task provided as text file.
+I need to solve the task and save results in an output file.
