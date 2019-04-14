@@ -363,3 +363,6 @@ input output for the tasks. I'm going to use JavaScript (they support nodejs)
 ###### 13-04-019
 I have a task and corresponding input for the task provided as text file.
 I need to solve the task and save results in an output file.
+###### 14-04-019
+Working on (kickstart 2018 round H B.Mural puzzle)[https://code.google.com/codejam/contest/3324486/dashboard#s=p1]
+Didn't solved the task yet but after thinking about it for a while probably I know how to do it.
