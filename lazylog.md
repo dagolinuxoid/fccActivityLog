@@ -369,3 +369,5 @@ Didn't solved the task yet but after thinking about it for a while probably
 I know how to do it.
 ###### 15-04-019
 Solved Mural for both inputs.
+###### 18-04-019
+Scrambled words - spend a lot of time on it but didn't pass even the C-small test case
