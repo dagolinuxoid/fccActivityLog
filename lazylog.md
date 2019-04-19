@@ -371,3 +371,5 @@ I know how to do it.
 Solved Mural for both inputs.
 ###### 18-04-019
 Scrambled words - spend a lot of time on it but didn't pass even the C-small test case
+###### 19-04-019
+Reading about probability and permutations. I need it in order to solve 'lucky dip'
