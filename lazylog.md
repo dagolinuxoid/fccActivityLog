@@ -375,3 +375,5 @@ Scrambled words - spend a lot of time on it but didn't pass even the C-small tes
 Reading about probability and permutations. I need it in order to solve 'lucky dip'
 ###### 21-04-019
 Kickstart 2019 round B Apr 21 (02-05AM) online - managed to solve only one problem. It was an interesting and  exciting expirience.
+###### 22-04-019
+browser-default-action#tasks from javascript.info/
