@@ -377,3 +377,8 @@ Reading about probability and permutations. I need it in order to solve 'lucky d
 Kickstart 2019 round B Apr 21 (02-05AM) online - managed to solve only one problem. It was an interesting and  exciting expirience.
 ###### 22-04-019
 browser-default-action#tasks from javascript.info/
+###### 23-04-019
+I've spend a TON of time to figure out how to solve a deadly simple task
+And didn't solve it. The worse thing I didn't understand provided and
+thorough explanation - the solution just didn't click or something. It is
+getting ridiculous.
