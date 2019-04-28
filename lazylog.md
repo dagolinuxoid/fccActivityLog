@@ -382,3 +382,6 @@ I've spend a TON of time to figure out how to solve a deadly simple task
 And didn't solve it. The worse thing I didn't understand provided and
 thorough explanation - the solution just didn't click or something. It is
 getting ridiculous.
+###### 28-04-019
+I solved Covering Segments by Points task but was able to pass tests for some reason.
+It turns out I didn't handle input properly. I am glad that trim() fixed the issue.
