@@ -385,3 +385,5 @@ getting ridiculous.
 ###### 28-04-019
 I solved Covering Segments by Points task but was able to pass tests for some reason.
 It turns out I didn't handle input properly. I am glad that trim() fixed the issue.
+###### 05-05-2019
+Working on Huffman encoding task.
