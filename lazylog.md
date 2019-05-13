@@ -389,3 +389,5 @@ It turns out I didn't handle input properly. I am glad that trim() fixed the iss
 Working on Huffman encoding task.
 ###### 08-05-2019
 Yesterday I build a Huffman tree and was able to use it (traverse/encode/decode)
+###### 13-05-2019
+Heap
