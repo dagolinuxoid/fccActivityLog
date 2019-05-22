@@ -393,3 +393,5 @@ Yesterday I build a Huffman tree and was able to use it (traverse/encode/decode)
 Heap
 ###### 18-05-2019
 My lazy log is really becoming the lazy one :). BubbleSelectionInsertionSorts
+###### 22-05-2019
+Working on Array | Order statistics (mostly from GeeksForGeeks)
