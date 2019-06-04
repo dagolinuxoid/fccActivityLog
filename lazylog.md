@@ -395,3 +395,5 @@ Heap
 My lazy log is really becoming the lazy one :). BubbleSelectionInsertionSorts
 ###### 22-05-2019
 Working on Array | Order statistics (mostly from GeeksForGeeks)
+###### 04-06-2019
+DYNAMIC PROGRAMMING: edit distance (Levenshtein distance)
