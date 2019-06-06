@@ -397,3 +397,5 @@ My lazy log is really becoming the lazy one :). BubbleSelectionInsertionSorts
 Working on Array | Order statistics (mostly from GeeksForGeeks)
 ###### 04-06-2019
 DYNAMIC PROGRAMMING: edit distance (Levenshtein distance)
+###### 06-06-2019
+DP: Edit Distance (about to be solved I believe)
