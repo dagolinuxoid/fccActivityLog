@@ -399,3 +399,5 @@ Working on Array | Order statistics (mostly from GeeksForGeeks)
 DYNAMIC PROGRAMMING: edit distance (Levenshtein distance)
 ###### 06-06-2019
 DP: Edit Distance (about to be solved I believe)
+###### 09-06-2019
+Knapsack
