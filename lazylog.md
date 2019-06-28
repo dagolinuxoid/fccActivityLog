@@ -403,3 +403,5 @@ DP: Edit Distance (about to be solved I believe)
 Knapsack
 ###### 18-06-2019
 Recursion
+###### 28-06-2019
+Last remaining programming problem at stepik: "лестница" can't solve it yet.
