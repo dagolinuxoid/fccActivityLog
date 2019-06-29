@@ -405,3 +405,6 @@ Knapsack
 Recursion
 ###### 28-06-2019
 Last remaining programming problem at stepik: "лестница" can't solve it yet.
+###### 29-06-2019
+divide and conquer, sorting and searching, and randomized algorithms
+by Stanford University
