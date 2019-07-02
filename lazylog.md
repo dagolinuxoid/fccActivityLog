@@ -408,3 +408,5 @@ Last remaining programming problem at stepik: "лестница" can't solve it 
 ###### 29-06-2019
 divide and conquer, sorting and searching, and randomized algorithms
 by Stanford University
+###### 02-07-2019
+A Practical Guide to Algorithms with JS (Bianca Gondolfo) at frontendMasters.
