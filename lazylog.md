@@ -410,3 +410,7 @@ divide and conquer, sorting and searching, and randomized algorithms
 by Stanford University
 ###### 02-07-2019
 A Practical Guide to Algorithms with JS (Bianca Gondolfo) at frontendMasters.
+###### 07-07-2019
+I've started 100days of code at 1 Jul and dropped it (Jul 3) due to interference
+I do some learning on morning but do not consider it as a serious/intence activity
+BTW I started React.
