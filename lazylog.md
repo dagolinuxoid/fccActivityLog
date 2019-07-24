@@ -414,3 +414,5 @@ A Practical Guide to Algorithms with JS (Bianca Gondolfo) at frontendMasters.
 I've started 100days of code at 1 Jul and dropped it (Jul 3) due to interference
 I do some learning on morning but do not consider it as a serious/intence activity
 BTW I started React.
+###### 24-07-2019
+Back to React
