@@ -416,3 +416,5 @@ I do some learning on morning but do not consider it as a serious/intence activi
 BTW I started React.
 ###### 24-07-2019
 Back to React
+###### 01-08-2019
+It's August. I'm actually enjoying to learn JS on jsinfo and MDN.
