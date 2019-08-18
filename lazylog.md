@@ -418,3 +418,5 @@ BTW I started React.
 Back to React
 ###### 01-08-2019
 It's August. I'm actually enjoying to learn JS on jsinfo and MDN.
+###### 18-08-2019
+Advanced JavaScript | by tylermcginnis
