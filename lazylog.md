@@ -420,3 +420,6 @@ Back to React
 It's August. I'm actually enjoying to learn JS on jsinfo and MDN.
 ###### 18-08-2019
 Advanced JavaScript | by tylermcginnis
+###### 28-08-2019
+There are ups and downs days: today is definitely the good day :-)
+Doing some AJAX.
