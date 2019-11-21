@@ -423,3 +423,11 @@ Advanced JavaScript | by tylermcginnis
 ###### 28-08-2019
 There are ups and downs days: today is definitely the good day :-)
 Doing some AJAX.
+###### 21-11-2019
+I use this to display notifications:
+`echo 'notify-send "You got this! Time to rest."'|at now + 25 minutes`
+Scripts: async, defer
+Introduction: callbacks
+Promise
+Pomodoros: 1,2,3,4,5
+
