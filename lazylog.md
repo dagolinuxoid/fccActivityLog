@@ -432,3 +432,5 @@ Promise
 Pomodoros: 1,2,3,4,5
 ###### 22-11-2019
 Pomodoros: 3
+###### 23-11-2019
+Pomodoro: 2
