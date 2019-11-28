@@ -446,3 +446,5 @@ day 5 pomodoro 10 | reignite :)
 day 6 pomodoro 10
 ###### 27-11-2019
 day 7, pomodoro 8
+###### 28-11-2019
+day 8, pomodoro 5
