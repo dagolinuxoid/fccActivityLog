@@ -452,3 +452,6 @@ day 8, pomodoro 5
 day 9, pomodoro 2
 ###### 30-11-2019
 day 10, pomodoro 1
+###### 01-12-2019
+day 11, pomodoro 1
+day 10, pomodoro 1
