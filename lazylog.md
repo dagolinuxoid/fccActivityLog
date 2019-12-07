@@ -464,3 +464,5 @@ day 14, pomodoro 1
 day 15, pomodoro 1
 ###### 06-12-2019
 day 16, pomodoro 1
+###### 07-12-2019
+day 17, pomodoro 0
