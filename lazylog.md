@@ -480,3 +480,5 @@ day 22, pomodoro 0
 day 23, pomodoro 3
 ###### 14-12-2019
 day 24, pomodoro 1
+###### 15-12-2019
+day 25, pomodoro 0
