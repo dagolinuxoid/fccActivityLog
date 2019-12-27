@@ -504,3 +504,5 @@ day 34, pomodoro 0
 day 35, pomodoro 2
 ###### 26-12-2019
 day 36, pomodoro 0
+###### 27-12-2019
+day 37, pomodoro 10 | yep let's do it
