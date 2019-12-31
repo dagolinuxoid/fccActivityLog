@@ -512,3 +512,5 @@ day 38, pomodoro 10 | I can do it
 day 39, pomodoro 0 | It's Sunday
 ###### 30-12-2019
 day 40, pomodoro 2 | I'm actually doing it!
+###### 31-12-2019
+day 41, pomodoro 0 | none
