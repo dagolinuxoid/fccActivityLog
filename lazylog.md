@@ -514,3 +514,6 @@ day 39, pomodoro 0 | It's Sunday
 day 40, pomodoro 2 | I'm actually doing it!
 ###### 31-12-2019
 day 41, pomodoro 0 | none
+###### 01-01-2020
+day 42, pomodoro 0 | happy new year!
+
