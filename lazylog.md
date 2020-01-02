@@ -516,4 +516,6 @@ day 40, pomodoro 2 | I'm actually doing it!
 day 41, pomodoro 0 | none
 ###### 01-01-2020
 day 42, pomodoro 0 | happy new year!
+###### 02-01-2020
+day 43, pomodoro 0 | zero =)
 
