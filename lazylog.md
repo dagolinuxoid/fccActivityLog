@@ -518,4 +518,6 @@ day 41, pomodoro 0 | none
 day 42, pomodoro 0 | happy new year!
 ###### 02-01-2020
 day 43, pomodoro 0 | zero =)
+###### 03-01-2020
+day 44, pomodoro 3 | vanillaJS
 
