@@ -522,4 +522,7 @@ day 43, pomodoro 0 | zero =)
 day 44, pomodoro 3 | vanillaJS
 ###### 04-01-2020
 day 45, pomodoro 3 | some React
+###### 05-01-2020
+day 46, pomodoro 0 | unexpectedly I got Sunday===0
+
 
