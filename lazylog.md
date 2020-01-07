@@ -526,4 +526,6 @@ day 45, pomodoro 3 | some React
 day 46, pomodoro 0 | unexpectedly I got Sunday===0
 ###### 06-01-2020
 day 47, pomodoro 0 | null
+###### 07-01-2020
+day 48, pomodoro 0 | 0
 
