@@ -528,4 +528,6 @@ day 46, pomodoro 0 | unexpectedly I got Sunday===0
 day 47, pomodoro 0 | null
 ###### 07-01-2020
 day 48, pomodoro 0 | 0
+###### 08-01-2020
+day 49, pomodoro 0 | this is looking pretty bad ...
 
