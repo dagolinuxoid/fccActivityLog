@@ -532,4 +532,6 @@ day 48, pomodoro 0 | 0
 day 49, pomodoro 0 | this is looking pretty bad ...
 ###### 09-01-2020
 day 50, pomodoro 0 | half: there are a lot of zeros
+###### 10-01-2020
+day 51, pomodoro 0 | it's not funny
 
