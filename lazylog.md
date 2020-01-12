@@ -536,4 +536,6 @@ day 50, pomodoro 0 | half: there are a lot of zeros
 day 51, pomodoro 0 | it's not funny
 ###### 11-01-2020
 day 52, pomodoro 0 | 7 in a row
+###### 12-01-2020
+day 53, pomodoro 0 | tommorow is THE day!
 
