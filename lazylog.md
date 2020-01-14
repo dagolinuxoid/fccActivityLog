@@ -540,4 +540,6 @@ day 52, pomodoro 0 | 7 in a row
 day 53, pomodoro 0 | tommorow is THE day!
 ###### 13-01-2020
 day 54, pomodoro 0 | this is getting ridiculous
+###### 14-01-2020
+day 55, pomodoro 0 | this is insane
 
