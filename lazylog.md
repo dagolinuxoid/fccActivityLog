@@ -544,4 +544,6 @@ day 54, pomodoro 0 | this is getting ridiculous
 day 55, pomodoro 0 | this is insane
 ###### 15-01-2020
 day 56, pomodoro 0 | eleven ...
+###### 16-01-2020
+day 57 | es6 modules
 
