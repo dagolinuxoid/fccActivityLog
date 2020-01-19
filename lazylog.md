@@ -550,4 +550,6 @@ day 57 | es6 modules
 day 58 | jest 
 ###### 18-01-2020
 day 59 | dark thoughts
+###### 19-01-2020
+day 60 | last day of suffering
 
