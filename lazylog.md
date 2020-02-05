@@ -584,4 +584,6 @@ day 74 +
 day 75 + | useEffect in details
 ###### 04-02-2020
 day 76 + 
+###### 05-02-2020
+day 77 + 
 
