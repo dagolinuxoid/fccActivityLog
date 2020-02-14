@@ -602,4 +602,6 @@ day 83 + | responsibility
 day 84 + 
 ###### 13-02-2020
 day 85 + 
+###### 14-02-2020
+day 86 + | grid :) 
 
