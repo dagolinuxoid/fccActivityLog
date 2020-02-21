@@ -616,4 +616,5 @@ day 90 +
 day 91 +
 ###### 20-02-2020
 day 92 + 
-
+###### 21-02-2020
+day 93 - | I did some stuff but doesn't consider it like a +
