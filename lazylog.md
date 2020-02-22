@@ -618,3 +618,5 @@ day 91 +
 day 92 + 
 ###### 21-02-2020
 day 93 - | I did some stuff but doesn't consider it like a +
+###### 22-02-2020
+day 94 + | kinda
