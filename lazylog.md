@@ -622,3 +622,5 @@ day 93 - | I did some stuff but doesn't consider it like a +
 day 94 + | kinda
 ###### 23-02-2020
 day 95 + | react
+###### 24-02-2020
+day 96 + 
